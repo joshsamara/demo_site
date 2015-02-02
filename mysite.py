@@ -13,6 +13,7 @@ class MySite(object):
     <body>
         <h1>Cat Hats</h1>
         <img src="http://i.imgur.com/ogXW5uf.jpg">
+        <h1>And Cat Ties!</h1>
     </body>
     </html>"""
 
