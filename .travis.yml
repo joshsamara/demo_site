@@ -6,7 +6,7 @@ script: python tests.py
 deploy:
   provider: heroku
   api_key:
-    secure: ePYeuFOuEkApAYi77ir+zfmqd/sd6prqFN0GoDeBAMbrmPyKsswIA0TysrJM9eLVSm/T/xHIinjJ4XTF1JB5iidL9ASCgbgzLrMnTDYGAu5Y7fqvXsqQqu5+Sm9kdiqaXHICPrD4xpWde7sFviiZuWP3mUY/qWd3ry45sLNcjZw=
+    secure: L9cQXhOno4YzI5cibVyU4KQUt1KENVYjIufCAw21+LMQ+Spg4t4fRi1EVLnFvqe/5WdpoowjK78dpoESPWnzBtlKveKhbXCln/1rFoYz8T6qT4puC15ljUlPYfmhYpJY4mi21ZtW5yE5blYQ57kYZRKTfUo+n9ZgwGJrMvtV0nM=
   app: hat-cats
   on:
     repo: joshsamara/demo_site
