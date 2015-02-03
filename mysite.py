@@ -45,7 +45,7 @@ class MySite(object):
             <img class="img-rounded" src="http://i.imgur.com/ogXW5uf.jpg" style="border-radius: 150px; height: 300px;"><br/>
             <blockquote>
                   <p>Cats with hats ... what a genius genius idea.</p>
-                    <footer>George Washington<cite title="Source Title">The Declaration of Independence.</cite></footer>
+                    <footer>George Washington <cite title="Source Title">The Declaration of Independence.</cite></footer>
             </blockquote>
             <button type="button" class="btn btn-success">Give Money</button>
         </p>
